@@ -1,4 +1,4 @@
-# Titanic-EDA-Visualisations
+# Capstone Titanic-EDA-Visualisations
 EDA and visualisations of Titanic dataset
 
 # Questions researched in this EDA
