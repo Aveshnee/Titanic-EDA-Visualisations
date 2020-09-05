@@ -1,6 +1,18 @@
 # Capstone Titanic-EDA-Visualisations
 EDA and visualisations of Titanic dataset
 
+
+## CONTENTS
+
+Introduction
+
+Data Cleaning
+
+Missing Data
+
+Data Stories and Visualisations
+
+
 # Questions researched in this EDA
 
 What are the splits on passenger classes?
